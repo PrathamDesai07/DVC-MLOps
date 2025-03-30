@@ -1,7 +1,7 @@
 import csv
 
 def write_to_csv(data):
-    file_name = "Dataset.csv"
+    file_name = "data/Dataset.csv"
     header = ["ID", "Name", "Age"]  # Modify as needed
     
     try:
