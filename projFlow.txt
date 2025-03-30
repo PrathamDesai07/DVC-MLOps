@@ -10,3 +10,8 @@
 10. do git add-commit-push
 11. make changes via data_adder.py and track the changes by "dvc status"
 12. Do a "dvc commit" and "dvc push" 
+
+git log --oneline
+git checkout <hash> 
+-git checkout main
+dvc pull
