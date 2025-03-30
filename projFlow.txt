@@ -5,3 +5,5 @@
 5. do dvc init for creating a .dvc and .dvcignore file
 6. add a remote origin by "dvc remote add -d myremote S3"
 7. do "dvc add data/"
+8. clear the git and dvc for better execution and conflict resolution
+9. Now do "dvc commit" and "dvc push"
