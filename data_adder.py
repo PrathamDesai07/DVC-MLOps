@@ -19,5 +19,5 @@ def write_to_csv(data):
 
 # Uncomment the lines below to insert data
 write_to_csv([1, "Alice", 25])
-# write_to_csv([2, "Bob", 30])
+write_to_csv([2, "Bob", 30])
 # write_to_csv([3, "Charlie", 22])
